@@ -12,3 +12,6 @@
 
 
 
+[Contribution guidelines for this project](Анализ убытков приложения ProcrastinatePRO+/README.md)
+
+
