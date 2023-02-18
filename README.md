@@ -12,7 +12,7 @@
 
 
 
-[a link](https://github.com/educational_projects_yandex_practicum/repo/blob/main/README.md)
+[a link](https://github.com/educational_projects_yandex_practicum/main/README.md)
 
 https://github.com/OlegPanin1/educational_projects_yandex_practicum/edit/main/README.md
 
