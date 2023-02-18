@@ -12,7 +12,8 @@
 
 
 
-[a link](https://github.com/educational_projects_yandex_practicum/main/README.md)
+[a link](https://github.com/OlegPanin1/educational_projects_yandex_practicum/blob/main/README.md)
 
 https://github.com/OlegPanin1/educational_projects_yandex_practicum/edit/main/README.md
 
+https://github.com/OlegPanin1/educational_projects_yandex_practicum/blob/main/README.md
