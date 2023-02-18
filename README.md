@@ -14,4 +14,4 @@
 
 [a link](https://github.com/OlegPanin1/educational_projects_yandex_practicum/blob/main/README.md)
 
-[a link](https://github.com/OlegPanin1/educational_projects_yandex_practicum/tree/main/Анализ%20убытков%20приложения%20Procrastinate%20Pro%2B)
+[Анализ убытков приложения ProcrastinatePRO+](https://github.com/OlegPanin1/educational_projects_yandex_practicum/tree/main/Анализ%20убытков%20приложения%20Procrastinate%20Pro%2B)
