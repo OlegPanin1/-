@@ -1,6 +1,6 @@
 # Анализ убытков приложения Procrastinate Pro+
 
-Презентация: https://disk.yandex.ru/i/_9H7oM0kg0Zxvg
+[Презентация](https://disk.yandex.ru/i/_9H7oM0kg0Zxvg)
 
 ## Описание проекта
 
