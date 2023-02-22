@@ -1,6 +1,6 @@
 # Дашборд по пользовательским событиям для агрегатора новостей
 
-Дашборд в Tableau: https://public.tableau.com/app/profile/oleg.panin/viz/DashboardsYandexPracticum/_
+[Дашборд в Tableau](https://public.tableau.com/app/profile/oleg.panin/viz/DashboardsYandexPracticum/_)
 
 ## Техническое задание 
 
