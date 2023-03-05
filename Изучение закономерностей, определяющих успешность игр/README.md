@@ -1,6 +1,6 @@
 # Изучение закономерностей, определяющих успешность игр
 
-Презентация: https://disk.yandex.ru/i/Sudx-DP4bZx1hQ
+(https://disk.yandex.ru/i/Sudx-DP4bZx1hQ)[Презентация]
 
 ## Введение
 
