@@ -1,10 +1,9 @@
 
 # Исследование рынка общепита Москвы
 
-Проект на nbviewer.org: https://nbviewer.org/github/OlegPanin1/educational_projects_yandex_practicum/blob/main/Исследование%20рынка%20общепита%20Москвы/Исследование%20рынка%20общепита.ipynb
+[Проект на nbviewer.org](https://nbviewer.org/github/OlegPanin1/educational_projects_yandex_practicum/blob/main/Исследование%20рынка%20общепита%20Москвы/Исследование%20рынка%20общепита.ipynb)
 
-
-Презентация: https://drive.google.com/file/d/1DDzK2dE3DiyAsbrdTSi7ryMsJoFT3NrE/view?usp=share_link
+[Презентация](https://drive.google.com/file/d/1DDzK2dE3DiyAsbrdTSi7ryMsJoFT3NrE/view?usp=share_link)
 
 ## Введение
 
