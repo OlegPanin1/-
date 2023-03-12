@@ -1,8 +1,8 @@
 # Сегментация клиентов банка
 
-[Дашборд](https://public.tableau.com/views/_16774868777830/sheet4?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Дашборд в Tableau](https://public.tableau.com/views/_16774868777830/sheet4?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-## Техническое задание на построение дашборда
+## Техническое задание
 
 - Бизнес-задача: сегментация клиентов;
 - Насколько часто предполагается пользоваться дашбордом: не реже, чем раз в неделю;
