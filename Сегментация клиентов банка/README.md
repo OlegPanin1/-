@@ -1,8 +1,8 @@
 # Сегментация пользователей по потреблению
 
 
-Презентация: https://disk.yandex.ru/i/q-kCmYPvql8sgg
-
+[Презентация](https://disk.yandex.ru/i/q-kCmYPvql8sgg)
+[Проект с визуализацией Plotly](https://nbviewer.org/github/OlegPanin1/educational_projects_yandex_practicum/blob/main/Сегментация%20клиентов%20банка/Сегментация%20клиентов%20банка.ipynb)
 
 ## Введение
 
